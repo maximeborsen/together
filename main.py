@@ -1,5 +1,5 @@
 import genius
-import area
+import aera
 import perimeter
 
 print("Genius.py")
